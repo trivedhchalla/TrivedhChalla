@@ -4,7 +4,7 @@
 ---
 
 ### 👋 Hi, I'm Challa Trivedh Kumar!  
-💻 B.Tech in Computer Science | Aspiring AI/ML Researcher | Passionate about Data & Development
+💻 B.Tech in Computer Science | Passionate about Data & Development
 
 ---
 
