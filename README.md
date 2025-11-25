@@ -8,38 +8,14 @@
 
 ---
 
----
-
 ### 🤝 Looking to Collaborate On:
 - Research-based projects in **AI**, **ML**, and **Data Science**  
 - Open-source projects using **Python**, **JavaScript**, and **Data-Handling-Python**  
 - College-level web and Full Stack projects  
-
----
-
-### 💡 Looking for Help With:
-- Applying to research internships abroad  
-- Understanding AI/ML model optimization  
-- Structuring scalable and modular web applications  
-
----
-
-### 📚 Currently Learning:
-- Python 3.13 intermediate-level concepts 
-- Machine Learning and Generative AI  
-- Full-stack dev with HTML, CSS, JS 
-
----
-
-### 💬 Ask Me About:
-- Python, C++, Full Stack development  
-- DSA, and project roadmaps  
-- Data Science learning paths and GitHub project setup  
-
 ---
 
 ### 🎯 Fun Fact:  
-I enjoy connecting data to real-world trends , debugging code at night, and watching movie/webseries marathons on weekends!
+I enjoy connecting data to real-world trends , debugging code at night,!
 
 ---
 
