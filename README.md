@@ -8,11 +8,6 @@
 
 ---
 
-### 🚀 Currently Working On:
-- Data-driven web apps using **JavaScript**, **Python**, and **Chart.js**  
-- Solving DSA problems  
-- Learning full-stack development and ML basics  
-
 ---
 
 ### 🤝 Looking to Collaborate On:
